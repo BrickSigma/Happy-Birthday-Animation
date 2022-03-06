@@ -1,2 +1,4 @@
-# Happy-Birthday-Animation
-A simple animation saying happy birthday using Python and Pygame
+# Happy Birthday Animation
+This is a simple animation made with Python and Pygame.
+
+## Demo
